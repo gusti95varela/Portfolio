@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 300" style="enable-background:new 0 0 800 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#F4A0A0;}
+	.st2{fill:#58D6B9;}
+	.st3{fill:#CA8A65;}
+	.st4{fill:#C6F7FB;}
+	.st5{fill:#70595E;}
+	.st6{fill:url(#oval10_1_);}
+	.st7{fill:#3E9C87;}
+	.st8{fill:#8FD182;}
+	.st9{fill:#4AB19A;}
+	.st10{fill:#439F8A;}
+	.st11{fill:#F6D546;}
+	.st12{fill:#AF946C;}
+	.st13{fill:#79D39F;}
+	.st14{fill:#217D68;}
+	.st15{fill:#378C79;}
+	.st16{fill:#6DA0AB;}
+	.st17{fill:url(#oval9_2_);}
+	.st18{fill:url(#oval9_3_);}
+</style>
+<g id="flagLeft">
+	<rect id="flagPoleLeft" x="65" y="83" class="st0" width="4" height="144"/>
+	<path id="leftGreenFlag2" class="st1" d="M28.5,108.8l41-15.3v32L28.5,108.8z"/>
+	<path id="leftGreenFlag" class="st2" d="M28.5,88.8l41-15.3v32L28.5,88.8z"/>
+</g>
+<g id="flagRight">
+	<rect id="flagPoleLeft2" x="724.3" y="81.5" class="st0" width="4" height="144"/>
+	<path id="leftGreenFlag3" class="st2" d="M765.6,107.8L724.9,124l-0.7-32L765.6,107.8z"/>
+	<path id="leftGreenFlag4" class="st1" d="M764.5,89.6l-41.4,14.2l0.9-32L764.5,89.6z"/>
+</g>
+<g id="brownHouse">
+	<rect id="rectangle15" x="411" y="37" class="st3" width="23" height="23"/>
+	<rect id="rectangle16" x="414" y="41" class="st4" width="6" height="6"/>
+	<rect id="rectangle17" x="426" y="41" class="st4" width="6" height="6"/>
+	<rect id="rectangle18" x="414" y="51" class="st4" width="6" height="6"/>
+	<rect id="rectangle19" x="426" y="51" class="st5" width="6" height="9"/>
+	<path id="polygon2" class="st5" d="M422.5,25.4l15.4,12.4H407L422.5,25.4z"/>
+	
+		<linearGradient id="oval10_1_" gradientUnits="userSpaceOnUse" x1="429.5034" y1="731.9958" x2="429.5034" y2="752.0042" gradientTransform="matrix(1 0 0 1 0 -722)">
+		<stop  offset="0" style="stop-color:#E0EBE8"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<path id="oval10" class="st6" d="M427,19.3c0.1-5.5,1.3-9.7,2.7-9.3c1.4,0.4,2.4,5.2,2.3,10.7s-1.3,9.7-2.7,9.3
+		c-1.3-0.4-2.3-4.7-2.3-10"/>
+	<rect id="rectangle20" x="426" y="26" class="st5" width="6.5" height="9"/>
+</g>
+<g id="hills">
+	<path id="backHill" class="st7" d="M212,231c0-98.9,84.6-179,189-179s189,80.1,189,179H401H212z"/>
+	<path id="whiteHill" class="st8" d="M333,383c0-123.7,104.1-224,232.5-224S798,259.3,798,383H565.5H333z"/>
+	<path id="leftHill" class="st9" d="M3,368c0-129.8,113.9-235,254.5-235S512,238.2,512,368H257.5H3z"/>
+</g>
+<g id="yellowTree">
+	<ellipse id="oval" class="st10" cx="129" cy="197.7" rx="12" ry="5.5"/>
+	<path id="bezier" class="st11" d="M114.5,183.7l13.4-56l15.6,56H114.5z"/>
+	<rect id="rectangle" x="128" y="160.2" class="st12" width="2" height="37"/>
+	<path id="bezier2" class="st12" d="M128.5,169.5l5.7-5.8l1.3,1.3l-6.4,6.5l-0.4,0.2L128.5,169.5z"/>
+	<path id="bezier3" class="st12" d="M128.5,177.5l5.7-5.8l1.3,1.3l-6.4,6.5l-0.4,0.2L128.5,177.5z"/>
+	<path id="bezier4" class="st12" d="M129.5,173.5l-5.7-5.8l-1.3,1.3l6.4,6.5l0.4,0.2L129.5,173.5z"/>
+</g>
+<g id="yellowTree2">
+	<ellipse id="oval3" class="st10" cx="199.8" cy="162.4" rx="10.3" ry="4"/>
+	<path id="bezier9" class="st1" d="M185,150.7l13.4-50.9l15.6,50.9H185z"/>
+	<rect id="rectangle3" x="198.5" y="132.4" class="st12" width="2" height="30"/>
+	<path id="bezier10" class="st12" d="M199,137.8l5.7-5.3l1.3,1.2l-6.4,5.9l-0.4,0.2L199,137.8z"/>
+	<path id="bezier11" class="st12" d="M199,145.1l5.7-5.3l1.3,1.2l-6.4,5.9l-0.4,0.2L199,145.1z"/>
+	<path id="bezier12" class="st12" d="M200,141.5l-5.7-5.3l-1.3,1.2l6.4,5.9l0.4,0.2L200,141.5z"/>
+</g>
+<g id="yellowTree4">
+	<ellipse id="oval5" class="st13" cx="552.5" cy="281.7" rx="10" ry="4"/>
+	<path id="bezier17" class="st11" d="M538,268.2l13.4-56l15.6,56H538z"/>
+	<rect id="rectangle5" x="551.5" y="244.7" class="st12" width="2" height="37"/>
+	<path id="bezier18" class="st12" d="M552,254.1l5.7-5.8l1.3,1.3l-6.4,6.5l-0.4,0.2L552,254.1z"/>
+	<path id="bezier19" class="st12" d="M552,262.1l5.7-5.8l1.3,1.3l-6.4,6.5l-0.4,0.2L552,262.1z"/>
+	<path id="bezier20" class="st12" d="M553,258.1l-5.7-5.8l-1.3,1.3l6.4,6.5l0.4,0.2L553,258.1z"/>
+</g>
+<g id="darkGreenTree2">
+	<ellipse id="oval6" class="st13" cx="644.5" cy="207.8" rx="12" ry="4"/>
+	<path id="bezier21" class="st14" d="M627,197.3l16.4-62l19.1,62H627z"/>
+	<rect id="rectangle6" x="643.5" y="174.8" class="st12" width="2" height="33"/>
+	<path id="bezier22" class="st12" d="M644,181.6l5.7-5.8l1.3,1.3l-6.4,6.4l-0.4,0.2L644,181.6z"/>
+	<path id="bezier23" class="st12" d="M644,189.4l5.7-5.8l1.3,1.3l-6.4,6.4l-0.4,0.2L644,189.4z"/>
+	<path id="bezier24" class="st12" d="M645,185.5l-5.7-5.8L638,181l6.4,6.4l0.4,0.2L645,185.5z"/>
+</g>
+<g id="yellowTree5">
+	<ellipse id="oval2" class="st10" cx="163.5" cy="180.2" rx="12" ry="5.5"/>
+	<path id="bezier5" class="st14" d="M148,166.2l14.8-69l17.2,69H148z"/>
+	<rect id="rectangle2" x="162.5" y="142.7" class="st12" width="2" height="37"/>
+	<path id="bezier6" class="st12" d="M163,152l5.7-5.8l1.3,1.3l-6.4,6.5l-0.4,0.2L163,152z"/>
+	<path id="bezier7" class="st12" d="M163,160l5.7-5.8l1.3,1.3l-6.4,6.5l-0.4,0.2L163,160z"/>
+	<path id="bezier8" class="st12" d="M164,156l-5.7-5.8l-1.3,1.3l6.4,6.5l0.4,0.2L164,156z"/>
+</g>
+<g id="yellowTree6">
+	<ellipse id="oval7" class="st15" cx="349" cy="90.5" rx="12" ry="5.5"/>
+	<path id="bezier25" class="st8" d="M333.5,76.5l14.8-69l17.2,69H333.5z"/>
+	<rect id="rectangle7" x="348" y="53" class="st12" width="2" height="37"/>
+	<path id="bezier26" class="st12" d="M348.5,62.3l5.7-5.8l1.3,1.3l-6.4,6.5l-0.4,0.2L348.5,62.3z"/>
+	<path id="bezier27" class="st12" d="M348.5,70.3l5.7-5.8l1.3,1.3l-6.4,6.5l-0.4,0.2L348.5,70.3z"/>
+	<path id="bezier28" class="st12" d="M349.5,66.3l-5.7-5.8l-1.3,1.3l6.4,6.5l0.4,0.2L349.5,66.3z"/>
+</g>
+<g id="yellowTree7">
+	<ellipse id="oval8" class="st15" cx="492.3" cy="104" rx="10.3" ry="4"/>
+	<path id="bezier29" class="st14" d="M477.5,92.3l13.4-50.9l15.6,50.9H477.5z"/>
+	<rect id="rectangle8" x="491" y="74" class="st12" width="2" height="30"/>
+	<path id="bezier30" class="st12" d="M491.5,79.4l5.7-5.3l1.3,1.2l-6.4,5.9l-0.4,0.2L491.5,79.4z"/>
+	<path id="bezier31" class="st12" d="M491.5,86.7l5.7-5.3l1.3,1.2l-6.4,5.9l-0.4,0.2L491.5,86.7z"/>
+	<path id="bezier32" class="st12" d="M492.5,83.1l-5.7-5.3l-1.3,1.2l6.4,5.9l0.4,0.2L492.5,83.1z"/>
+</g>
+<g id="blueHouse">
+	<rect id="rectangle9" x="234.6" y="114.7" class="st16" width="30" height="30"/>
+	<rect id="rectangle10" x="238.6" y="119.7" class="st4" width="8" height="8"/>
+	<rect id="rectangle11" x="253.6" y="119.7" class="st4" width="8" height="8"/>
+	<rect id="rectangle12" x="238.6" y="132.7" class="st4" width="8" height="8"/>
+	<rect id="rectangle13" x="253.6" y="132.7" class="st5" width="8" height="12"/>
+	<path id="polygon" class="st5" d="M249.6,99.7l19.9,16.1h-39.8L249.6,99.7z"/>
+	
+		<linearGradient id="oval9_2_" gradientUnits="userSpaceOnUse" x1="258.6176" y1="801.6979" x2="258.6176" y2="827.7021" gradientTransform="matrix(1 0 0 1 0 -722)">
+		<stop  offset="0" style="stop-color:#E0EBE8"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<path id="oval9" class="st17" d="M255.6,91.8c0.1-7.2,1.6-12.6,3.2-12.1s2.9,6.7,2.8,13.9c-0.1,7.2-1.6,12.6-3.2,12.1
+		c-1.6-0.5-2.8-6.1-2.8-13"/>
+	<rect id="rectangle14" x="254.6" y="100.7" class="st5" width="7.5" height="12"/>
+</g>
+<g id="darkGreenTree2_1_">
+	<ellipse id="oval6_1_" class="st13" cx="488" cy="236.8" rx="12" ry="4"/>
+	<path id="bezier21_1_" class="st14" d="M470.5,226.3l16.4-62l19.1,62H470.5z"/>
+	<rect id="rectangle6_1_" x="487" y="203.8" class="st12" width="2" height="33"/>
+	<path id="bezier22_1_" class="st12" d="M487.5,210.6l5.7-5.8l1.3,1.3l-6.4,6.4l-0.4,0.2L487.5,210.6z"/>
+	<path id="bezier23_1_" class="st12" d="M487.5,218.4l5.7-5.8l1.3,1.3l-6.4,6.4l-0.4,0.2L487.5,218.4z"/>
+	<path id="bezier24_1_" class="st12" d="M488.5,214.5l-5.7-5.8l-1.3,1.3l6.4,6.4l0.4,0.2L488.5,214.5z"/>
+</g>
+<g id="yellowTree3_1_">
+	<ellipse id="oval4_1_" class="st13" cx="546.8" cy="192" rx="10.8" ry="4"/>
+	<path id="bezier13_1_" class="st1" d="M532.5,180.3l13.4-50.9l15.6,50.9L532.5,180.3L532.5,180.3z"/>
+	<rect id="rectangle4_1_" x="546" y="162" class="st12" width="2" height="30"/>
+	<path id="bezier14_1_" class="st12" d="M546.5,167.4l5.7-5.3l1.3,1.2l-6.4,5.9l-0.4,0.2L546.5,167.4z"/>
+	<path id="bezier15_1_" class="st12" d="M546.5,174.7l5.7-5.3l1.3,1.2l-6.4,5.9l-0.4,0.2L546.5,174.7z"/>
+	<path id="bezier16_1_" class="st12" d="M547.5,171.1l-5.7-5.3l-1.3,1.2l6.4,5.9l0.4,0.2L547.5,171.1z"/>
+</g>
+<g id="blueHouse_1_">
+	<rect id="rectangle9_1_" x="566.4" y="181.1" class="st16" width="47.4" height="44.8"/>
+	<rect id="rectangle10_1_" x="572.8" y="188.6" class="st4" width="12.7" height="12"/>
+	<rect id="rectangle11_1_" x="596.5" y="188.6" class="st4" width="12.7" height="12"/>
+	<rect id="rectangle12_1_" x="572.8" y="208" class="st4" width="12.7" height="12"/>
+	<rect id="rectangle13_1_" x="596.5" y="208" class="st5" width="12.7" height="17.9"/>
+	<path id="polygon_1_" class="st5" d="M590.2,158.7l31.5,24.1h-63L590.2,158.7z"/>
+	
+		<linearGradient id="oval9_3_" gradientUnits="userSpaceOnUse" x1="604.4569" y1="850.8455" x2="604.4569" y2="889.7005" gradientTransform="matrix(1 0 0 1 0 -722)">
+		<stop  offset="0" style="stop-color:#E0EBE8"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<path id="oval9_1_" class="st18" d="M599.7,146.9c0.2-10.7,2.5-18.8,5.1-18c2.6,0.7,4.6,10,4.4,20.7c-0.2,10.7-2.5,18.8-5.1,18
+		c-2.5-0.7-4.4-9.2-4.4-19.4"/>
+	<rect id="rectangle14_1_" x="598.1" y="160.2" class="st5" width="11.9" height="17.9"/>
+</g>
+<g id="yellowTree2_1_">
+	<ellipse id="oval3_1_" class="st15" cx="394.8" cy="144.1" rx="10.3" ry="4"/>
+	<path id="bezier9_1_" class="st1" d="M380,132.4l13.4-50.9l15.6,50.9H380z"/>
+	<rect id="rectangle3_1_" x="393.5" y="114.1" class="st12" width="2" height="30"/>
+	<path id="bezier10_1_" class="st12" d="M394,119.5l5.7-5.3l1.3,1.2l-6.4,5.9l-0.4,0.2L394,119.5z"/>
+	<path id="bezier11_1_" class="st12" d="M394,126.8l5.7-5.3l1.3,1.2l-6.4,5.9l-0.4,0.2L394,126.8z"/>
+	<path id="bezier12_1_" class="st12" d="M395,123.1l-5.7-5.3L388,119l6.4,5.9l0.4,0.2L395,123.1z"/>
+</g>
+<g id="yellowTree3_2_">
+	<ellipse id="oval4_2_" class="st13" cx="675.8" cy="290.3" rx="10.8" ry="4"/>
+	<path id="bezier13_2_" class="st1" d="M661.5,278.6l13.4-50.9l15.6,50.9H661.5z"/>
+	<rect id="rectangle4_2_" x="675" y="260.3" class="st12" width="2" height="30"/>
+	<path id="bezier14_2_" class="st12" d="M675.5,265.7l5.7-5.3l1.3,1.2l-6.4,5.9l-0.4,0.2L675.5,265.7z"/>
+	<path id="bezier15_2_" class="st12" d="M675.5,273l5.7-5.3l1.3,1.2l-6.4,5.9l-0.4,0.2L675.5,273z"/>
+	<path id="bezier16_2_" class="st12" d="M676.5,269.3l-5.7-5.3l-1.3,1.2l6.4,5.9l0.4,0.2L676.5,269.3z"/>
+</g>
+<g id="yellowTree_1_">
+	<ellipse id="oval_1_" class="st10" cx="356" cy="193.7" rx="11" ry="5.2"/>
+	<path id="bezier_1_" class="st11" d="M342.7,180.6l12.2-52.5l14.3,52.5H342.7z"/>
+	<rect id="rectangle_1_" x="355" y="158.6" class="st12" width="1.8" height="34.7"/>
+	<path id="bezier2_1_" class="st12" d="M355.5,167.3l5.2-5.4l1.2,1.2l-5.8,6.1l-0.4,0.2L355.5,167.3z"/>
+	<path id="bezier3_1_" class="st12" d="M355.5,174.8l5.2-5.4l1.2,1.2l-5.8,6.1l-0.4,0.2L355.5,174.8z"/>
+	<path id="bezier4_1_" class="st12" d="M356.4,171.1l-5.2-5.4l-1.2,1.2l5.8,6.1l0.4,0.2L356.4,171.1z"/>
+</g>
+<g id="yellowTree5_1_">
+	<ellipse id="oval2_1_" class="st10" cx="327.3" cy="170.9" rx="12" ry="5.5"/>
+	<path id="bezier5_1_" class="st14" d="M311.8,156.9l14.8-69l17.2,69H311.8z"/>
+	<rect id="rectangle2_1_" x="326.3" y="133.4" class="st12" width="2" height="37"/>
+	<path id="bezier6_1_" class="st12" d="M326.8,142.7l5.7-5.8l1.3,1.3l-6.4,6.5l-0.4,0.2L326.8,142.7z"/>
+	<path id="bezier7_1_" class="st12" d="M326.8,150.7l5.7-5.8l1.3,1.3l-6.4,6.5l-0.4,0.2L326.8,150.7z"/>
+	<path id="bezier8_1_" class="st12" d="M327.8,146.7l-5.7-5.8l-1.3,1.3l6.4,6.5l0.4,0.2L327.8,146.7z"/>
+</g>
+<g id="yellowTree2_2_">
+	<ellipse id="oval3_2_" class="st10" cx="294.3" cy="157.7" rx="10.3" ry="4"/>
+	<path id="bezier9_2_" class="st1" d="M279.5,146l13.4-50.9l15.6,50.9H279.5z"/>
+	<rect id="rectangle3_2_" x="293" y="127.7" class="st12" width="2" height="30"/>
+	<path id="bezier10_2_" class="st12" d="M293.5,133.1l5.7-5.3l1.3,1.2l-6.4,5.9l-0.4,0.2L293.5,133.1z"/>
+	<path id="bezier11_2_" class="st12" d="M293.5,140.4l5.7-5.3l1.3,1.2l-6.4,5.9l-0.4,0.2L293.5,140.4z"/>
+	<path id="bezier12_2_" class="st12" d="M294.5,136.8l-5.7-5.3l-1.3,1.2l6.4,5.9l0.4,0.2L294.5,136.8z"/>
+</g>
+</svg>
